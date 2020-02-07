@@ -29,7 +29,7 @@
 
 }
 
-#home .col-8,#home .card{
+.home-info,#home .card{
     opacity: 0.9;
 }
 
